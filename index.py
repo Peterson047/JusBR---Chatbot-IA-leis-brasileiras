@@ -41,6 +41,23 @@ def generate(prompt):
 
 • Constituição Federal: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm  
 • Código Penal: https://www2.senado.leg.br/bdsf/bitstream/handle/id/529748/codigo_penal_1ed.pdf
+• Código de transito brasileiro CTB: https://www.planalto.gov.br/ccivil_03/Leis/L9503.htm
+• Código de defesa do consumidor: https://www.planalto.gov.br/ccivil_03/Leis/L8078.htm 
+• Código Civil: https://www.planalto.gov.br/ccivil_03/Leis/2002/L10406.htm
+• Código de Processo Civil: https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2015/Lei/L13105.htm
+• Código de Processo Penal: https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689.htm
+• Código Eleitoral: https://www.planalto.gov.br/ccivil_03/Leis/L4737.htm
+• Código Florestal: https://www.planalto.gov.br/ccivil_03/Leis/L4771.htm
+• Código de Mineração: https://www.planalto.gov.br/ccivil_03/Leis/L4771.htm
+• Código de Águas: https://www.planalto.gov.br/ccivil_03/Leis/L4771.htm
+• Código de Telecomunicações: https://www.planalto.gov.br/ccivil_03/Leis/L9472.htm
+• Código de Ética e Disciplina da OAB: https://www.oab.org.br/codigo-de-etica-e-disciplina-da-oab/
+• Código de Ética Médica: https://portal.cfm.org.br/codigo-de-etica-medica/
+• Código de Ética dos Contadores: https://cfc.org.br/wp-content/uploads/2019/05/Codigo-de-Etica-Profissional-do-Contador.pdf
+• Código de Ética dos Administradores: https://cfa.org.br/legislacao/codigo-de-etica-do-administrador/
+• Código de Ética dos Psicólogos: https://site.cfp.org.br/wp-content/uploads/2012/07/codigo_etica.pdf  
+• Código de ética e disciplina da OAB: https://www.oab.org.br/content/pdf/legislacaooab/codigodeetica.pdf
+
 
 Ao responder, considere os seguintes pontos:
 
