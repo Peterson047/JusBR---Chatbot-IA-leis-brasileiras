@@ -1,6 +1,4 @@
-Aqui está um modelo de README para o seu código:
-
----
+![Designer](https://github.com/user-attachments/assets/d73ea81f-f9bd-4a02-b472-5254049727c0)
 
 ## Chat Jurídico Brasileiro com Gemini Pro
 
