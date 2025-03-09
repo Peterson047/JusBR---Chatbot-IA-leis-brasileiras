@@ -4,6 +4,8 @@ Aqui está um modelo de README para o seu código:
 
 ## Chat Jurídico Brasileiro com Gemini Pro
 
+- [DEMO](https://jus-br.streamlit.app/)
+
 Este aplicativo utiliza **Streamlit** para fornecer uma interface web interativa que permite aos usuários fazer perguntas jurídicas e obter respostas fundamentadas na **Constituição Federal** e no **Código Penal Brasileiro**. A geração das respostas é feita utilizando a **Google Gemini API**.
 
 - Autor: [Peterson Alves](https://github.com/Peterson047)
